@@ -1,0 +1,447 @@
+ICD-10 codes in cardiology:
+
+I25.10 - Atherosclerotic heart disease of native coronary artery without angina pectoris: This code indicates the presence of atherosclerosis (buildup of plaque) in the native coronary arteries, which supply blood to the heart muscle. However, the patient does not experience angina pectoris, which is chest pain or discomfort caused by reduced blood flow to the heart.
+
+I10 - Essential (primary) hypertension: This code refers to high blood pressure (hypertension) that has no identifiable cause. It is often called "essential" or "primary" hypertension.
+
+I48.91 - Unspecified atrial fibrillation: This code indicates the presence of atrial fibrillation, an irregular and often rapid heart rate that can increase the risk of stroke, heart failure, and other heart-related complications. However, it does not specify whether the atrial fibrillation is paroxysmal (comes and goes) or chronic (persistent).
+
+I21.4 - Non-ST elevation (NSTEMI) myocardial infarction: This code is used to diagnose a type of heart attack, specifically a non-ST-elevation myocardial infarction (NSTEMI). In an NSTEMI, there is partial blockage of a coronary artery, leading to reduced blood flow and damage to the heart muscle.
+
+I25.11 - Atherosclerotic heart disease of native coronary artery with angina pectoris: Similar to I25.10, this code indicates atherosclerosis in the native coronary arteries. However, in this case, the patient experiences angina pectoris (chest pain or discomfort) due to reduced blood flow to the heart.
+
+I50.22 - Chronic systolic (congestive) heart failure: This code is used to diagnose chronic systolic heart failure, a condition where the heart's left ventricle (the main pumping chamber) cannot pump blood effectively due to decreased contractility. It is a chronic (long-term) condition.
+
+I48.0 - Paroxysmal atrial fibrillation: This code indicates that the patient has paroxysmal atrial fibrillation, which means the irregular heart rhythm comes and goes in episodes.
+
+I63.9 - Cerebral infarction, unspecified: This code is used to diagnose a stroke or cerebral infarction (a blockage of blood flow to the brain), but it does not specify the location or type of stroke.
+
+I21.9 - Acute myocardial infarction, unspecified: This code is used to diagnose a heart attack or myocardial infarction, but it does not specify the type (ST-elevation or non-ST-elevation) or location of the heart attack.
+
+I48.20 - Chronic atrial fibrillation, unspecified: This code indicates the presence of chronic (persistent) atrial fibrillation, but it does not specify whether it is paroxysmal or permanent.
+
+I49.9 - Cardiac arrhythmia, unspecified: This code is used to diagnose an irregular heart rhythm or cardiac arrhythmia, but it does not specify the type of arrhythmia (e.g., atrial fibrillation, ventricular tachycardia, etc.).
+
+I50.9 - Heart failure, unspecified: This code is used to diagnose heart failure, but it does not specify the type (systolic or diastolic) or the underlying cause of the heart failure.
+
+I51.6 - Cardiovascular disease, unspecified: This code is a general code used to diagnose an unspecified cardiovascular disease or disorder affecting the heart and blood vessels.
+
+I50.21 - Acute systolic (congestive) heart failure: This code is used to diagnose acute systolic heart failure, which is a sudden onset of the condition where the heart's left ventricle cannot pump blood effectively due to decreased contractility.
+
+I20.9 - Angina pectoris, unspecified: This code is used to diagnose angina pectoris or chest pain/discomfort due to reduced blood flow to the heart, but it does not specify the underlying cause (e.g., atherosclerosis, coronary artery disease, etc.).
+
+I11.9 - Hypertensive heart disease without heart failure: This code is used to diagnose hypertensive heart disease, which is a condition where high blood pressure has caused damage or changes to the heart muscle. However, the patient does not have heart failure.
+
+I24.9 - Acute ischemic heart disease, unspecified
+I21.3 - ST elevation (STEMI) myocardial infarction of unspecified site
+I35.1 - Nonrheumatic aortic (valve) insufficiency
+I48.92 - Unspecified atrial flutter
+I34.0 - Nonrheumatic mitral (valve) insufficiency
+I25.701 - Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris
+I42.9 - Cardiomyopathy, unspecified
+I25.5 - Ischemic cardiomyopathy
+I25.111 - Atherosclerotic heart disease of native coronary artery with angina pectoris with documented spasm
+I25.110 - Atherosclerotic heart disease of native coronary artery with unstable angina pectoris
+I27.0 - Primary pulmonary hypertension
+I25.700 - Atherosclerosis of coronary artery bypass graft(s), unspecified, with unstable angina pectoris
+I50.43 - Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+I25.84 - Coronary atherosclerosis due to calcified coronary lesion
+I44.2 - Atrioventricular block, complete
+I48.1 - Persistent atrial fibrillation
+I25.10 - Atherosclerotic heart disease of native coronary artery without angina pectoris
+I25.83 - Coronary atherosclerosis due to lipid rich plaque
+I25.6 - Silent myocardial ischemia
+I25.2 - Old myocardial infarction
+I20.0 - Unstable angina
+I42.0 - Dilated cardiomyopathy
+I50.42 - Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+I70.92 - Chronic total occlusion of artery of the extremities
+I34.1 - Nonrheumatic mitral (valve) prolapse
+I50.33 - Acute on chronic diastolic (congestive) heart failure
+I24.8 - Other forms of acute ischemic heart disease
+I25.9 - Chronic ischemic heart disease, unspecified
+I44.1 - Atrioventricular block, second degree
+I42.5 - Other restrictive cardiomyopathy
+I35.8 - Other nonrheumatic aortic valve disorders
+I47.1 - Supraventricular tachycardia
+
+
+ICD-10 codes for chronic kidney disease (CKD):
+
+N18.1 - Chronic kidney disease, stage 1: This code indicates the presence of kidney damage with normal or increased glomerular filtration rate (GFR ≥90 mL/min/1.73m²). Stage 1 CKD is usually diagnosed based on the presence of proteinuria or other markers of kidney damage, despite normal kidney function.
+
+N18.2 - Chronic kidney disease, stage 2 (mild): This code represents mild kidney damage with a slightly decreased GFR (60-89 mL/min/1.73m²). Patients in this stage typically have mild kidney dysfunction but may not experience any symptoms.
+
+N18.3 - Chronic kidney disease, stage 3 (moderate): Stage 3 CKD is categorized as moderate kidney damage with a GFR ranging from 30-59 mL/min/1.73m². This stage is further divided into two subcategories:
+
+N18.30 - Chronic kidney disease, stage 3 unspecified
+N18.31 - Chronic kidney disease, stage 3a (GFR 45-59 mL/min/1.73m²)
+N18.32 - Chronic kidney disease, stage 3b (GFR 30-44 mL/min/1.73m²)
+N18.4 - Chronic kidney disease, stage 4 (severe): This code indicates severe kidney damage with a GFR ranging from 15-29 mL/min/1.73m². Patients in this stage may experience symptoms such as fatigue, nausea, and fluid retention.
+
+N18.5 - Chronic kidney disease, stage 5: Stage 5 CKD is also known as end-stage renal disease (ESRD) or kidney failure, with a GFR <15 mL/min/1.73m². At this stage, dialysis or a kidney transplant is typically required to sustain life.
+
+N18.6 - End-stage renal disease: This code specifically refers to ESRD or kidney failure requiring dialysis or a kidney transplant.
+
+N18.9 - Chronic kidney disease, unspecified: This code is used when chronic kidney disease is present, but the specific stage is not documented or specified.
+
+I12.9 - Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease
+I13.11 - Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end-stage renal disease
+E11.22 - Type 2 diabetes mellitus with diabetic chronic kidney disease
+E08.22 - Diabetes mellitus due to underlying condition with diabetic chronic kidney disease
+N19 - Unspecified kidney failure
+I12.0 - Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end-stage renal disease
+E10.22 - Type 1 diabetes mellitus with diabetic chronic kidney disease
+N25.0 - Renal osteodystrophy
+N26.9 - Renal failure, unspecified
+N25.9 - Disorder resulting from impaired renal tubular function, unspecified
+N28.9 - Disorder of kidney and ureter, unspecified
+E11.21 - Type 2 diabetes mellitus with diabetic nephropathy
+
+E08.21 - Diabetes mellitus due to underlying condition with diabetic nephropathy
+E10.21 - Type 1 diabetes mellitus with diabetic nephropathy
+I13.0 - Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease
+I13.2 - Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end-stage renal disease
+N25.1 - Renal osteodystrophy, unspecified
+N25.81 - Secondary hyperparathyroidism of renal origin
+N25.89 - Other disorders resulting from impaired renal tubular function
+N28.84 - Hypertrophy of kidney
+N28.89 - Other specified disorders of kidney and ureter
+N32.1 - Calculus of kidney
+N32.2 - Calculus of ureter
+
+
+
+ICD-10 codes for vascular diseases:
+
+I25.10 - Atherosclerotic heart disease of native coronary artery without angina pectoris: This code indicates the presence of atherosclerosis (buildup of plaque) in the native coronary arteries, which are the arteries that supply blood to the heart muscle. However, this condition does not cause angina pectoris (chest pain or discomfort due to reduced blood flow to the heart).
+
+I25.11 - Atherosclerotic heart disease of native coronary artery with angina pectoris: Similar to the previous code, this code indicates atherosclerosis in the native coronary arteries, but in this case, it is accompanied by angina pectoris (chest pain or discomfort due to reduced blood flow to the heart).
+
+I70.92 - Chronic total occlusion of artery of the extremities, unspecified extremity: This code refers to a complete blockage (occlusion) of an artery in the extremities (arms or legs), which has been present for a long time (chronic). However, the specific extremity (right or left arm/leg) is not specified.
+
+I63.9 - Cerebral infarction, unspecified: This code indicates a stroke or cerebral infarction, which is a sudden interruption of blood supply to the brain, causing tissue damage. The code does not specify the cause or location of the infarction.
+
+I48.91 - Unspecified atrial fibrillation: Atrial fibrillation is an irregular and often rapid heart rate that can increase the risk of stroke and other heart-related complications. This code simply indicates the presence of atrial fibrillation without specifying any further details.
+
+I48.20 - Chronic atrial fibrillation, unspecified: Similar to the previous code, this code indicates the presence of atrial fibrillation, but specifically mentions that it is a chronic (long-lasting) condition. However, no further details about the type of atrial fibrillation are provided.
+
+I70.209 - Unspecified atherosclerosis of the extremities, unspecified extremity: This code indicates the presence of atherosclerosis (buildup of plaque) in the arteries of the extremities (arms or legs), but it does not specify which extremity is affected or provide any additional details.
+
+I69.398 - Other sequelae of cerebral infarction: This code refers to other long-term effects or complications resulting from a previous cerebral infarction (stroke). The specific sequelae (consequences) are not specified in this code.
+
+I70.239 - Atherosclerosis of the extremities with ulceration of unspecified extremity: This code indicates the presence of atherosclerosis in the arteries of the extremities, which has led to the development of an ulcer (open wound) in one of the extremities. However, the specific extremity affected is not specified.
+
+I70.223 - Atherosclerosis of the extremities with ulceration of bilateral legs: Similar to the previous code, this code indicates atherosclerosis in the arteries of the extremities, but in this case, it has led to the development of ulcers in both legs.
+
+I70.213 - Atherosclerosis of the extremities with intermittent claudication of bilateral legs: This code indicates the presence of atherosclerosis in the arteries of the extremities, leading to intermittent claudication (pain or discomfort in the legs during walking due to reduced blood flow) in both legs.
+
+I70.212 - Atherosclerosis of the extremities with intermittent claudication of left leg: Similar to the previous code, this code indicates atherosclerosis in the arteries of the extremities, but in this case, it is causing intermittent claudication specifically in the left leg.
+
+I70.211 - Atherosclerosis of the extremities with intermittent claudication of right leg: This code is the same as the previous one, but it specifies that the intermittent claudication is occurring in the right leg due to atherosclerosis in the arteries of the extremities.
+
+I70.203 - Unspecified atherosclerosis of the extremities, bilateral legs: This code indicates the presence of atherosclerosis in the arteries of the extremities, specifically affecting both legs. However, no further details about the severity or complications are provided.
+
+I70.202 - Unspecified atherosclerosis of the extremities, left leg: Similar to the previous code, this code indicates atherosclerosis in the arteries of the extremities, but it specifies that only the left leg is affected.
+
+I70.201 - Unspecified atherosclerosis of the extremities, right leg: This code is the same as the previous one, but it specifies that the atherosclerosis in the arteries of the extremities is affecting the right leg.
+
+I48.21 - Paroxysmal atrial fibrillation: This code refers to a type of atrial fibrillation that occurs in sudden episodes or paroxysms, which means it comes and goes intermittently.
+
+I70.1 - Atherosclerosis of renal artery: This code indicates the presence of atherosclerosis (buildup of plaque) in the renal arteries, which are the arteries that supply blood to the kidneys.
+
+I70.8 - Atherosclerosis of other arteries: This code is used when atherosclerosis is present in arteries other than those specifically mentioned in the other codes, such as the arteries supplying the arms, abdomen, or other regions.
+
+I70.92 - Chronic total occlusion of artery of the extremities, left leg: This code indicates a complete blockage (occlusion) of an artery in the left leg, which has been present for a long time (chronic).
+
+I70.91 - Chronic total occlusion of artery of the extremities, right leg: Similar to the previous code, this code indicates a chronic total occlusion of an artery, but in this case, it is affecting the right leg.
+
+I70.0 - Atherosclerosis of aorta: This code indicates the presence of atherosclerosis (buildup of plaque) in the aorta, which is the main artery that carries blood from the heart to the rest of the body.
+
+I63.311 - Cerebral infarction due to thrombosis of right vertebral artery: This code specifies that the cerebral infarction (stroke) was caused by a blood clot (thrombosis) in the right vertebral artery, which is one of the arteries that supply blood to the brain.
+
+I63.319 - Cerebral infarction due to thrombosis of unspecified vertebral artery: Similar to the previous code, this code indicates a cerebral infarction caused by a blood clot in one of the vertebral arteries, but it does not specify which side (right or left) was affected.
+
+I63.30 - Cerebral infarction due to thrombosis of cerebral venous sinus, unspecified
+I63.321 - Cerebral infarction due to unspecified occlusion or stenosis of right vertebral arteries
+I63.322 - Cerebral infarction due to unspecified occlusion or stenosis of left vertebral arteries
+I63.329 - Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral arteries
+I63.331 - Cerebral infarction due to thrombosis of right carotid artery
+I63.339 - Cerebral infarction due to thrombosis of unspecified carotid artery
+I63.341 - Cerebral infarction due to embolism of right carotid artery
+I63.342 - Cerebral infarction due to embolism of left carotid artery
+I63.349 - Cerebral infarction due to embolism of unspecified carotid artery
+I63.39 - Cerebral infarction due to thrombosis of unspecified cerebral artery
+I63.40 - Cerebral infarction due to embolism of unspecified cerebral artery
+I63.411 - Cerebral infarction due to embolism of right vertebral artery
+I63.419 - Cerebral infarction due to embolism of unspecified vertebral artery
+I63.421 - Cerebral infarction due to embolism of right carotid artery
+I63.429 - Cerebral infarction due to embolism of unspecified carotid artery
+I63.49 - Cerebral infarction due to embolism of other cerebral artery
+I63.50 - Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery
+I63.511 - Cerebral infarction due to unspecified occlusion or stenosis of right vertebral artery
+I63.519 - Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral artery
+I63.521 - Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries
+I63.529 - Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries
+I63.59 - Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery
+I63.81 - Other cerebral infarction due to occlusion or stenosis of small artery
+I63.89 - Other cerebral infarction
+I63.9 - Cerebral infarction, unspecified
+I65.01 - Occlusion and stenosis of right vertebral artery
+
+
+ICD-10 codes related to diabetes:
+
+E11.9 - Type 2 diabetes mellitus without complications: This code is used when a patient has Type 2 diabetes mellitus, but there are no documented complications related to the diabetes.
+
+E11.65 - Type 2 diabetes mellitus with hyperglycemia: This code indicates that the patient has Type 2 diabetes mellitus and is experiencing hyperglycemia (high blood sugar levels).
+
+E11.51 - Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene: This code is used when a patient has Type 2 diabetes mellitus and has developed diabetic peripheral angiopathy (a condition affecting the blood vessels in the extremities, particularly the legs and feet) without gangrene.
+
+E11.21 - Type 2 diabetes mellitus with diabetic nephropathy: This code indicates that the patient has Type 2 diabetes mellitus and has developed diabetic nephropathy (kidney disease or damage caused by diabetes).
+
+E11.22 - Type 2 diabetes mellitus with diabetic chronic kidney disease: This code is used when a patient has Type 2 diabetes mellitus and has developed chronic kidney disease due to their diabetes.
+
+E11.311 - Type 2 diabetes mellitus with unspecified diabetic retinopathy with macular edema: This code indicates that the patient has Type 2 diabetes mellitus and has developed diabetic retinopathy (an eye disease affecting the retina) with macular edema (swelling in the macula, the central part of the retina).
+
+E11.319 - Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema: This code is used when a patient has Type 2 diabetes mellitus and has developed diabetic retinopathy, but without macular edema.
+
+E11.59 - Type 2 diabetes mellitus with other circulatory complications: This code indicates that the patient has Type 2 diabetes mellitus and has developed other circulatory complications related to their diabetes, such as peripheral vascular disease or cardiovascular disease.
+
+E11.42 - Type 2 diabetes mellitus with diabetic polyneuropathy: This code is used when a patient has Type 2 diabetes mellitus and has developed diabetic polyneuropathy (damage to multiple peripheral nerves due to diabetes).
+
+E11.621 - Type 2 diabetes mellitus with foot ulcer: This code indicates that the patient has Type 2 diabetes mellitus and has developed a foot ulcer as a complication of their diabetes.
+
+E11.610 - Type 2 diabetes mellitus with diabetic neuropathic arthropathy: This code is used when a patient has Type 2 diabetes mellitus and has developed diabetic neuropathic arthropathy (a degenerative joint condition caused by nerve damage due to diabetes).
+
+E11.8 - Type 2 diabetes mellitus with unspecified complications: This code indicates that the patient has Type 2 diabetes mellitus and has developed complications, but the specific complications are not specified.
+
+E11.29 - Type 2 diabetes mellitus with other diabetic kidney complication: This code is used when a patient has Type 2 diabetes mellitus and has developed other kidney complications related to their diabetes, not specified as chronic kidney disease or nephropathy.
+
+E11.36 - Type 2 diabetes mellitus with diabetic cataract: This code indicates that the patient has Type 2 diabetes mellitus and has developed a cataract (clouding of the eye's lens) as a complication of their diabetes.
+
+E11.622 - Type 2 diabetes mellitus with other skin ulcer: This code is used when a patient has Type 2 diabetes mellitus and has developed skin ulcers other than foot ulcers as a complication of their diabetes.
+
+E11.618 - Type 2 diabetes mellitus with other diabetic arthropathy: This code indicates that the patient has Type 2 diabetes mellitus and has developed other types of arthropathy (joint disease) related to their diabetes, not specified as neuropathic arthropathy.
+
+E11.638 - Type 2 diabetes mellitus with other oral complications: This code is used when a patient has Type 2 diabetes mellitus and has developed other oral complications related to their diabetes, such as periodontal disease or dry mouth.
+
+E11.3219 - Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema: This code indicates that the patient has Type 2 diabetes mellitus and has developed mild nonproliferative diabetic retinopathy (an early stage of diabetic retinopathy) without macular edema.
+
+E11.3213 - Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema: This code is used when a patient has Type 2 diabetes mellitus and has developed moderate nonproliferative diabetic retinopathy with macular edema.
+
+E11.3212 - Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema: This code indicates that the patient has Type 2 diabetes mellitus and has developed moderate nonproliferative diabetic retinopathy without macular edema.
+
+E11.3292 - Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema: This code is used when a patient has Type 2 diabetes mellitus and has developed mild nonproliferative diabetic retinopathy with macular edema.
+
+E11.3393 - Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema: This code indicates that the patient has Type 2 diabetes mellitus and has developed moderate nonproliferative diabetic retinopathy with macular edema.
+
+E11.3392 - Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema: This code is used when a patient has Type 2 diabetes mellitus and has developed moderate nonproliferative diabetic retinopathy without macular edema.
+
+E11.3399 - Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema: This code indicates that the patient has Type 2 diabetes mellitus and has developed diabetic retinopathy, but the specific type or severity is not specified, and there is no macular edema.
+
+E11.3391 - Type 2 diabetes mellitus with unspecified diabetic retinopathy with macular edema: This code is used when a patient has Type 2 diabetes mellitus and has developed diabetic retinopathy with macular edema, but the specific type or severity is not specified.
+
+E11.3211 - Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema: This code indicates that the patient has Type 2 diabetes mellitus and has developed severe nonproliferative diabetic retinopathy with macular edema.
+
+E11.3289 - Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema: This code is used when a patient has Type 2 diabetes mellitus and has developed mild nonproliferative diabetic retinopathy with macular edema.
+E11.59 - Type 2 diabetes mellitus with other circulatory complications
+E11.3293 - Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+E11.349 - Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+E11.3519 - Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema
+E11.3521 - Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema
+E11.3543 - Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment
+E11.3542 - Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula
+E11.3541 - Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula
+E11.3549 - Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment
+E11.3592 - Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema
+E11.3593 - Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema
+E11.3599 - Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema
+E11.37X1 - Type 2 diabetes mellitus with diabetic macular edema, resolved following treatment
+E11.37X2 - Type 2 diabetes mellitus with diabetic macular edema, improved with current treatment
+E11.37X3 - Type 2 diabetes mellitus with diabetic macular edema, improved with current treatment
+E11.37X9 - Type 2 diabetes mellitus with diabetic macular edema, unspecified
+E11.40 - Type 2 diabetes mellitus with diabetic neuropathy, unspecified
+E11.49 - Type 2 diabetes mellitus with other diabetic neurological complication
+E11.630 - Type 2 diabetes mellitus with diabetic cystopathy
+
+
+ICD-10 codes related to obesity:
+
+E66.9 - Obesity, unspecified This code indicates obesity without any additional details specified.
+
+E66.01 - Morbid (severe) obesity due to excess calories
+This code is for severe obesity resulting from consuming excess calories.
+
+E66.3 - Overweight This code applies when someone is overweight, but not yet classified as obese.
+
+E66.8 - Other obesity This is a code for types of obesity that don't fit the other specific categories listed.
+
+E66.2 - Obesity due to caloric excess This indicates obesity caused by consuming too many calories.
+
+E66.09 - Other obesity due to excess calories This is for obesity from excess calories that doesn't fit the severe/morbid category.
+
+E66.1 - Drug-induced obesity This code is for obesity that developed as a side effect of taking certain medications.
+
+E66.0 - Obesity due to excess calories A general code for obesity resulting from caloric excess without additional details.
+
+The Z68.* codes indicate the specific body mass index (BMI) range:
+Z68.54 - Body mass index (BMI) greater than or equal to 35, adult
+Z68.53 - Body mass index (BMI) 33.0-33.9, adult
+Z68.52 - Body mass index (BMI) 32.0-32.9, adult
+Z68.51 - Body mass index (BMI) 31.0-31.9, adult
+Z68.39 - Body mass index (BMI) 39.0-39.9, adult
+Z68.38 - Body mass index (BMI) 38.0-38.9, adult
+Z68.37 - Body mass index (BMI) 37.0-37.9, adult
+Z68.36 - Body mass index (BMI) 36.0-36.9, adult
+Z68.35 - Body mass index (BMI) 35.0-35.9, adult
+Z68.34 - Body mass index (BMI) 34.0-34.9, adult
+Z68.33 - Body mass index (BMI) 33.0-33.9, adult
+Z68.32 - Body mass index (BMI) 32.0-32.9, adult
+Z68.31 - Body mass index (BMI) 31.0-31.9, adult
+Z68.30 - Body mass index (BMI) 30.0-30.9, adult
+Z68.41 - Body mass index (BMI) 40.0-44.9, adult
+Z68.42 - Body mass index (BMI) 45.0-49.9, adult
+Z68.43 - Body mass index (BMI) 50-59.9, adult
+Z68.44 - Body mass index (BMI) 60.0-69.9, adult
+Z68.45 - Body mass index (BMI) 70 or greater, adult
+E66.8 - Other obesity, not elsewhere classified
+E66.1 - Drug-induced obesity, not elsewhere classified
+
+
+ICD-10 codes commonly used in Rheumatology:
+
+MM05.9 - Rheumatoid arthritis, unspecified: This code is used when rheumatoid arthritis (a chronic autoimmune disorder primarily affecting the joints) is present, but the specific site or severity is not documented.
+
+M06.9 - Rheumatoid arthritis, unspecified: This is the same as the previous code, indicating an unspecified case of rheumatoid arthritis.
+
+M15.9 - Polyosteoarthritis, unspecified: This code refers to osteoarthritis (a degenerative joint disease) affecting multiple joints, but the specific sites are not documented.
+
+M17.9 - Osteoarthritis of knee, unspecified: This code is used for osteoarthritis affecting the knee joint, without specifying which knee (right or left) or the severity.
+
+M19.90 - Unspecified osteoarthritis, unspecified site: This code indicates the presence of osteoarthritis, but the affected joint(s) and severity are not specified.
+
+M79.7 - Fibromyalgia: This code is used for the diagnosis of fibromyalgia, a chronic condition characterized by widespread musculoskeletal pain, fatigue, and sleep disturbances.
+
+M25.50 - Pain in unspecified joint: This code is used when joint pain is present, but the specific joint is not documented.
+
+M25.51 - Pain in shoulder joint: This code indicates pain in the shoulder joint, without specifying which side (right or left).
+
+M25.52 - Pain in elbow: This code is used for elbow joint pain, without specifying which elbow.
+
+M25.53 - Pain in wrist: This code refers to pain in the wrist joint, without specifying which side.
+
+M25.54 - Pain in joints of hand: This code indicates pain in the joints of the hand, without specifying which hand or specific joints.
+
+M25.55 - Pain in hip joint: This code is used for hip joint pain, without specifying which hip.
+
+M25.56 - Pain in knee joint: This code refers to knee joint pain, without specifying which knee.
+
+M25.57 - Pain in ankle and joints of foot: This code indicates pain in the ankle joint or joints of the foot, without specifying which side or specific joints.
+
+M25.58 - Pain in other joints: This code is used for joint pain in locations other than those specified in the previous codes.
+
+
+M25.60 - Stiffness of unspecified joint, not elsewhere classified
+M25.61 - Stiffness of shoulder joint, not elsewhere classified
+M25.62 - Stiffness of elbow joint, not elsewhere classified
+M25.63 - Stiffness of wrist joint, not elsewhere classified
+M25.64 - Stiffness of hand joint, not elsewhere classified
+M25.65 - Stiffness of hip joint, not elsewhere classified
+M25.66 - Stiffness of knee joint, not elsewhere classified
+M25.67 - Stiffness of ankle and foot joints, not elsewhere classified
+M25.68 - Stiffness of other joint, not elsewhere classified
+This list covers common rheumatic conditions such as rheumatoid arthritis, osteoarthritis, systemic lupus erythematosus, ankylosing spondylitis, and various types of joint pain, stiffness, and contractures.
+
+
+ICD-10 codes commonly used in psychiatry:
+
+F33 - Major Depressive Disorder, recurrent: This code is used for patients experiencing multiple episodes of major depressive disorder, with periods of remission in between.
+
+F41.1 - Generalized Anxiety Disorder: A chronic condition characterized by excessive and uncontrollable worry and anxiety about many different aspects of life.
+
+F32.9 - Major Depressive Disorder, single episode, unspecified: This code is used for a single episode of major depression, with the severity level not specified.
+
+F90.0 - Attention-Deficit Hyperactivity Disorder, predominantly inattentive type: ADHD characterized primarily by inattention and distractibility, rather than hyperactive/impulsive behaviors.
+
+F33.1 - Major Depressive Disorder, recurrent, moderate: Recurrent episodes of moderate severity major depressive disorder.
+
+F41.0 - Panic Disorder: A condition marked by recurring and unexpected panic attacks with intense physical and psychological symptoms.
+
+F29 - Unspecified psychosis not due to a substance or known physiological condition: A psychotic disorder not caused by substance use or a known medical condition, with unspecified symptoms.
+
+F43.10 - Post-Traumatic Stress Disorder, unspecified: PTSD following exposure to a traumatic event, with unspecified descriptors.
+
+F31.9 - Bipolar Disorder, unspecified: A bipolar disorder diagnosis without specifying if it's Bipolar I or II or the current episode type.
+
+F10.20 - Alcohol Use Disorder, Moderate: Moderate alcohol use disorder.
+
+F33.2 - Major Depressive Disorder, recurrent severe without psychotic features: Recurrent episodes of severe major depression without psychotic symptoms.
+
+F41.9 - Anxiety Disorder, unspecified: An anxiety disorder diagnosis without further specification.
+
+F43.23 - Adjustment Disorder with mixed anxiety and depressed mood: An adjustment disorder with symptoms of both anxiety and depressed mood.
+
+F33.0 - Major Depressive Disorder, recurrent, mild: Recurrent episodes of mild major depressive disorder.
+
+F84.0 - Autistic Disorder: A neurodevelopmental disorder on the autism spectrum, characterized by impaired social interaction and communication.
+
+F20.9 - Schizophrenia, unspecified: A diagnosis of schizophrenia without specifying the subtype.
+
+F40.10 - Social Anxiety Disorder (Social Phobia), unspecified: Excessive anxiety and avoidance in social situations.
+
+F32.1 - Major Depressive Disorder, single episode, moderate: A single moderate episode of major depressive disorder.
+
+F42 - Obsessive-Compulsive Disorder: A disorder characterized by intrusive thoughts, obsessions, and repetitive behaviors/compulsions.
+
+F31.31 - Bipolar Disorder, current episode depressed, mild: A current mild depressive episode in the context of bipolar disorder.
+
+F19.20 - Other Psychoactive Substance Use Disorder, Moderate: Moderate use disorder involving psychoactive substances other than alcohol and common drugs of abuse.
+
+F34.1 - Dysthymic Disorder: A chronic depressive disorder with less severe symptoms than major depression.
+
+F60.3 - Borderline Personality Disorder: A personality disorder marked by severe impulsivity, unstable moods and relationships.
+
+F31.30 - Bipolar Disorder, current episode depressed, unspecified severity: A current depressive episode in bipolar disorder, with severity not specified.
+
+F41.3 - Other Mixed Anxiety Disorders: An anxiety disorder with mixed symptoms not meeting criteria for a specific disorder.
+
+F39 - Unspecified Mood [Affective] Disorder: A mood disorder that does not meet criteria for a specific diagnosis.
+
+F32.2 - Major Depressive Disorder, single episode, severe without psychotic features: A single severe major depressive episode without psychotic symptoms.
+
+F10.10 - Alcohol Use Disorder, Mild: Mild alcohol use disorder.
+
+F90.9 - Attention-Deficit Hyperactivity Disorder, unspecified type: ADHD diagnosis without specifying if predominantly inattentive or hyperactive/impulsive.
+
+F50.9 - Eating Disorder, unspecified: An eating disorder that does not meet criteria for a specific diagnosis.
+
+F33.3 - Major Depressive Disorder, recurrent, severe with psychotic symptoms: Recurrent severe major depressive episodes with psychotic symptoms.
+
+F60.9 - Personality Disorder, unspecified: A personality disorder diagnosis without specifying the type.
+
+F25.0 - Schizoaffective Disorder, Bipolar Type: A condition with symptoms of both schizophrenia and a bipolar disorder.
+
+F45.22 - Obsessive-Compulsive Traits: Obsessive-compulsive personality traits that do not meet criteria for OCD.
+
+F43.22 - Adjustment Disorder with Anxiety: An adjustment disorder primarily characterized by symptoms of anxiety.
+
+F40.01 - Agoraphobia with Panic Disorder: A condition involving anxiety about being in situations where escape may be difficult, along with panic attacks.
+
+F51.01 - Insomnia Disorder due to another medical condition: Insomnia caused by an underlying medical condition.
+F44.9 - Dissociative Disorder, unspecified
+F31.0 - Bipolar Disorder, current episode hypomanic
+F60.2 - Antisocial Personality Disorder
+F33.41 - Major Depressive Disorder, recurrent, in partial remission
+F44.4 - Conversion Disorder with motor symptom or deficit
+F51.03 - Insomnia Disorder due to drug or substance
+F31.62 - Bipolar Disorder, current episode with mixed features
+F06.31 - Mood Disorder due to another medical condition with depressive features
+F48.9 - Nonpsychotic Mental Disorder, unspecified
+F31.76 - Bipolar Disorder, in partial remission, most recent episode mixed
+F41.8 - Other Specified Anxiety Disorders
+F95.2 - Tourette's Disorder
+F63.3 - Gambling Disorder
+
+
+

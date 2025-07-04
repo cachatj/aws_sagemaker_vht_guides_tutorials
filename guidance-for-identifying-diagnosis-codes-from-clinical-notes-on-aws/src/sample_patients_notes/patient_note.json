@@ -1,0 +1,57 @@
+{
+  "name": "Patient 1",
+  "age": "57 years",
+  "sex": "Male",
+  "encounters": [
+    {
+      "Date": "2016-01-21",
+      "ICD10 diagnoses": "R01.1",
+      "Procedure codes": "93306",
+      "note": []
+    },
+    {
+      "Date": "2016-02-25",
+      "Lab results": "potassium: 4 mmol/L, Body temperature: 97 degree Fahrenheit, Hemoglobin A1c/Hemoglobin.total in Blood: 5%, HDL cholesterol: 73 mg/dL, glucose: 103 mg/dL, albumin/globulin ratio: 2 (calc), Oxygen saturation: 98 percent, Respiratory rate: 18 Breaths / minute, creatinine: 1 mg/dL, ALT: 21 U/L, Body weight: 112037 gram, globulin: 2 g/dL (calc), carbon dioxide: 25 mmol/L, Body mass index (BMI): 40 kilogram / (meter ^ 2), alkaline phosphatase: 77 U/L, estimated avg. glucose: 108 mg/dL (calc), chloride: 102 mmol/L, blood urea nitrogen: 19 mg/dL, bilirubin, total: 1 mg/dL, GFR non-african american: 78 , triglycerides: 111 mg/dL, BUN/creatinine ratio: 24 (calc), Cholesterol in LDL [Mass/volume] in Serum or Plasma: 155 mg/dL (calc), GFR african american: 90 , albumin: 5 g/dL, Heart rate: 72 Beats / minute, anion gap: 12 (calc), sodium: 139 mmol/L, vitamin D 25-oh, total: 29 NG/mL, Blood pressure systolic and diastolic:  , calcium: 10 mg/dL, AST: 24 U/L, cholesterol: 250 mg/dL, total protein: 7 g/dL",
+      "Procedure codes": "80053, 99214, 83036, 80061, 36415, 82306",
+      "note": ["Continue increasing physical activity as well as holistic diet with elimination of processed carbs and sugars",
+        "labs today - continue current prescription as the current dose is appropriate",
+        "recheck labs today for eval - last LDL at 190",
+        "stable with medication dose",
+        "stable currently",
+        "Stable on current medication",
+        "Continue bisoprolol HCTZ and we will increase losartan to 100 mg daily.  Continue to monitor BP at home with goal of 120/80",
+        "Continue diet changes and recheck levels today"]
+    },
+    {
+      "Date": "2016-03-31", 
+      "Lab results": "cologuard result:", 
+      "note": []
+    },
+    {
+      "Date": "2016-05-05",
+      "Lab results": "white blood cells: 8 K/uL, Unknown:  , vitamin D 25-oh, total: 43 NG/mL, Unknown:  , glucose: 119 mg/dL, albumin/globulin ratio: 2 (calc), GFR: 59 , Unknown:  , Blood pressure systolic and diastolic:  , Body mass index (BMI): 44 kilogram / (meter ^ 2), % monocytes: 5%, Unknown:  , % eosinophils: 4%, Unknown:  , neutrophil,absolute: 6 K/uL, monocyte,absolute: 0 K/uL, eosinophil,absolute: 0 K/uL, Unknown:  , Unknown: 5 , Unknown:  , Body temperature: 99 degree Fahrenheit, Unknown:  , estimated avg. glucose: 123 mg/dL (calc), creatinine: 1 mg/dL, sodium: 140 mmol/L, MPV: 9 fL, chloride: 103 mmol/L, hyaline casts:  , % lymphocytes: 16%, AST: 30 U/L, ALT: 27 U/L, TSH: 4 uIU/mL, basophil,absolute: 0 K/uL, bilirubin, total: 1 mg/dL, reflex culture:  , % neutrophils: 74%, squamous epi. cells:  , Hemoglobin A1c/Hemoglobin.total in Blood: 6%, potassium: 4 mmol/L, anion gap: 11 (calc), cholesterol: 226 mg/dL, platelet count: 245 K/uL, Respiratory rate: 18 Breaths / minute, Heart rate: 89 Beats / minute, RBC, urine:  , hematocrit: 39%, Unknown:  , Body weight: 123377 gram, WBC, urine:  , RDW: 14%, nucleated red cells: 0%, Oxygen saturation: 98 percent, total protein: 7 g/dL, MCH: 32 pg, % basophils: 1%, Unknown:  , lymphocyte,absolute: 1 K/uL, alkaline phosphatase: 78 U/L, nucleated RBCs, absolute: 0 K/uL, mucus, urine:  , Unknown: 1 , globulin: 3 g/dL (calc), bacteria:  , triglycerides: 178 mg/dL, calcium: 10 mg/dL, BUN/creatinine ratio: 17 (calc), Unknown:  , albumin: 4 g/dL, HDL cholesterol: 59 mg/dL, MCV: 96 fL, hemoglobin: 13 g/dL, MCHC: 34 g/dL, Unknown:  , Cholesterol in LDL [Mass/volume] in Serum or Plasma: 131 mg/dL (calc), red blood cells: 4 M/uL, carbon dioxide: 26 mmol/L, 12 lead Electrocardiogram performed.:  , blood urea nitrogen: 18 mg/dL",
+      "Procedure codes": "G0439, 93000, 3288F, 99397, 82044, 81003, G0444, 80061, 85025, 84443, 80053, 83036, 36415, 82306, 81015, 93000",
+      "note": ["stable with medication dose of Celexa at 40 mg daily. We will continue with lifestyle modification and and improving socialization activities use PHQ-9 at 0",
+        "BMI is at 43.9 today.  This is quite significant 25 pounds increased from her last appointment.  She is highly motivated for weight loss and will start exercising regularly and continue to monitor for more holistic diet with Mediterranean like diet changes.  Goal of 10 to 15 pound weight loss by her next appointment.",
+        "Advised patient on exercising stretching and other modalities for her to continue at home.  PT and/or hand orthopedic referral if this continues to be problematic",
+        "utd with immunizations/other screenings Patient is not a fall risk and PHQ-9 is at 0",
+        "Continue bisoprolol HCTZ and losartan to 100 mg daily. Continue to monitor BP at home with goal below 140/90. DASH diet recommended as well. Advised her to keep BP log and bring that with her to next cardiology appointment for further assessment for better BP control as well",
+        "labs today - last vit d at 29 - continue current prescription as the current dose is appropriate of vitamin D 50,000 units once daily. Continue NAME exposure as stated",
+        "Mild changes with ST and lateral leads specifically 2 and V4 and V6 -we will refer to cardiology for further assessment due to history of mild aortic valve sclerosis and mild change with BP values.",
+        "Last echocardiogram DATE did display mild aortic valve sclerosis and stenosis. We will continue to monitor for any progressing symptoms and control cholesterol and blood pressure levels",
+        "Stable on current medication of methocarbamol as needed. We will continue with low back stretching and movement exercises",
+        "rx for bactrim",
+        "stable currently physical activity and meloxicam as needed. If it advised patient avoidance of other NSAIDs and will continue to monitor GFR closely",
+        "Continue diet changes and recheck levels today -last A1c at 5.4%. We will continue with diet modification and Mediterranean food with increasing fiber intake",
+        "recheck labs today for eval - last LDL improved at 155 from 190 at the last appointment. We will continue with high-fiber diet and pravastatin at 40 mg daily",
+        "Continue increasing physical activity as well as holistic diet with elimination of processed carbs and sugars. Last BMI 39.9"]
+    },
+    {
+      "Date": "2016-07-04", 
+      "note": ["Patient visited doctor for red rash on hands that begins a few days after the pain. Skin is sensitive to touch, itching. There are fluid-filled blisters that break open and crust over. Doctor prescribed Acyclovir"]},
+    {
+      "Date": "2016-08-20", 
+      "note": ["Doctor visit. Patient no longer complained of skin rash. Physical check up confirmed no rash or redness in the hand. Doctor asked to stop taking Acyclovir."]
+    }
+  ]
+}
