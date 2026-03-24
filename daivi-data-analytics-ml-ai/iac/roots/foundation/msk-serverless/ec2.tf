@@ -51,6 +51,7 @@ resource "aws_instance" "msk_client" {
   tags = {
     Name = "${var.APP}-${var.ENV}-msk-client"
   }
+  depends_on = [aws_msk_serverless_cluster.cluster]
 }
 
 resource "aws_iam_role" "client_instance_role" {
@@ -93,9 +94,9 @@ resource "aws_iam_policy" "kafka_permissions" {
         ]
         Resource = [
           # Reference the cluster name from the module
-          "arn:aws:kafka:${data.aws_region.current.name}:${data.aws_caller_identity.current.account_id}:cluster/${aws_msk_serverless_cluster.cluster.cluster_name}/*",
-          "arn:aws:kafka:${data.aws_region.current.name}:${data.aws_caller_identity.current.account_id}:topic/${aws_msk_serverless_cluster.cluster.cluster_name}/*",
-          "arn:aws:kafka:${data.aws_region.current.name}:${data.aws_caller_identity.current.account_id}:group/${aws_msk_serverless_cluster.cluster.cluster_name}/*"
+          "arn:aws:kafka:${var.AWS_PRIMARY_REGION}:${data.aws_caller_identity.current.account_id}:cluster/${aws_msk_serverless_cluster.cluster.cluster_name}/*",
+          "arn:aws:kafka:${var.AWS_PRIMARY_REGION}:${data.aws_caller_identity.current.account_id}:topic/${aws_msk_serverless_cluster.cluster.cluster_name}/*",
+          "arn:aws:kafka:${var.AWS_PRIMARY_REGION}:${data.aws_caller_identity.current.account_id}:group/${aws_msk_serverless_cluster.cluster.cluster_name}/*"
         ]
       },
       {

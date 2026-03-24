@@ -46,39 +46,38 @@ data "aws_identitystore_user" "domain_owners" {
   }
 }
 
-resource "awscc_datazone_user_profile" "user" {
+# Create user profiles using native AWSCC resource
+resource "awscc_datazone_user_profile" "users" {
   for_each = toset(nonsensitive(local.user_emails))
 
-  depends_on = [ null_resource.create_smus_domain ]
+  depends_on = [aws_datazone_domain.smus_domain]
+
   domain_identifier = local.domain_id
   user_identifier   = data.aws_identitystore_user.users[each.key].user_id
-  user_type = "SSO_USER"
-  status = "ASSIGNED"
+  user_type         = "SSO_USER"
+  status            = "ASSIGNED"
+
+  lifecycle {
+    ignore_changes = [status]
+  }
 }
 
-# Add 10 second delay before triggering "null_resource.add_root_owners"
-resource "time_sleep" "wait_10_seconds" {
-  depends_on = [ awscc_datazone_user_profile.user ]
-  create_duration = "10s"
-}
-
-resource "null_resource" "add_root_owners" {
-  depends_on = [ time_sleep.wait_10_seconds ]
+# Add domain owners to the root domain unit using native AWSCC resource
+resource "awscc_datazone_owner" "domain_owners" {
   for_each = toset(nonsensitive(local.domain_owner_emails))
 
-  triggers = {
-    domain_id = local.domain_id
-    user_id   = data.aws_identitystore_user.domain_owners[each.key].user_id
-  }
+  depends_on = [
+    aws_datazone_domain.smus_domain,
+    awscc_datazone_user_profile.users
+  ]
 
-  provisioner "local-exec" {
-    command = <<-EOF
-      aws datazone add-entity-owner \
-        --domain-identifier ${local.domain_id} \
-        --entity-type DOMAIN_UNIT \
-        --entity-identifier ${local.root_domain_unit_id} \
-        --owner '{"user": {"userIdentifier": "${data.aws_identitystore_user.domain_owners[each.key].user_id}"}}'
-    EOF
+  domain_identifier = local.domain_id
+  entity_identifier = local.root_domain_unit_id
+  entity_type       = "DOMAIN_UNIT"
+
+  owner = {
+    user = {
+      user_identifier = data.aws_identitystore_user.domain_owners[each.key].user_id
+    }
   }
 }
-
