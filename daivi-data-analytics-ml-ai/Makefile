@@ -13,7 +13,7 @@ TF_S3_BACKEND_NAME = ###TF_S3_BACKEND_NAME###
 
 #################### Global Constants ####################
 
-ADMIN_ROLE = Admin
+ADMIN_ROLE = aws-vht-admin
 
 #################### Init Wizard ####################
 
